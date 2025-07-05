@@ -1,0 +1,30 @@
+.botones {
+  width: 1150px;
+  margin: auto;
+  justify-content: center;
+
+  gap: 20px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  background-color: #1c7a45;
+}
+.avatar {
+  width: 100PX
+}
+.pfooter {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  font-weight: normal;
+  font-family: 'Times New Roman', Times, serif;
+  padding-bottom: 25px;
+}
+.nombres{
+    font-size: 20px;
+  color: white;
+  text-align: center;
+  font-weight: normal;
+  font-family: 'Times New Roman', Times, serif;
+  padding-bottom: 25px;
+  text-decoration: none;
+}
